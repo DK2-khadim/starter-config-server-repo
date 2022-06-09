@@ -1,0 +1,13 @@
+spring:
+  security:
+    user:
+      name: eureka
+      password: password
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+  instance:
+    hostname: localhost
