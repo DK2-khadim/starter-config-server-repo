@@ -20,8 +20,8 @@ spring:
 sn:
   gainde2000:
     starter-auth-service:
-      nameEnterprise: Gainde2000 Inc
-      logoEnterprise:
+      nameEnterprise: Orange
+      logoEnterprise: 
       emailEnterprise: enterprise@enterprise.sn
       descriptionEnterprise: description here ...
 
