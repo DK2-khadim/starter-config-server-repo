@@ -20,9 +20,9 @@ spring:
 sn:
   gainde2000:
     starter-auth-service:
-      nameEnterprise: Orange
+      nameEnterprise: Ecole Polytechnique de Thies
       logoEnterprise: 
-      emailEnterprise: enterprise@enterprise.sn
+      emailEnterprise: ept@ept.sn
       descriptionEnterprise: description here ...
 
 
