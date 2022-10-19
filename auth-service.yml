@@ -20,10 +20,10 @@ spring:
 sn:
   gainde2000:
     starter-auth-service:
-      nameEnterprise: GAINDE 2000
-      logoEnterprise: https://i.ibb.co/fXqRpK5/logo.png
-      emailEnterprise: info@gainde2000.sn
-      descriptionEnterprise: Dématérialisation ...
+      nameEnterprise: ATOS
+      logoEnterprise: 
+      emailEnterprise: atos@atos.sn
+      descriptionEnterprise: Entreprise informatique ...
 
 
 springdoc:
